@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isFloatingPointDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-floating-point-data-type@deno/mod.js';
+import isFloatingPointDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-floating-point-data-type@v0.2.2-deno/mod.js';
 ```
 
 #### isFloatingPointDataType( value )
@@ -88,7 +88,7 @@ bool = isFloatingPointDataType( 'uint32' );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import isFloatingPointDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-floating-point-data-type@deno/mod.js';
+import isFloatingPointDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-floating-point-data-type@v0.2.2-deno/mod.js';
 
 var bool = isFloatingPointDataType( 'binary' );
 // returns false
