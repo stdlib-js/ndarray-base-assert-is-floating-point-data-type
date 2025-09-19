@@ -2,6 +2,50 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-09-19)
+
+<section class="features">
+
+### Features
+
+-   [`8e7dc95`](https://github.com/stdlib-js/stdlib/commit/8e7dc9562192062ab1e016d45ba32b9c3592fe97) - add support for non-string data types
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`8e7dc95`](https://github.com/stdlib-js/stdlib/commit/8e7dc9562192062ab1e016d45ba32b9c3592fe97) - **feat:** add support for non-string data types _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-29)
